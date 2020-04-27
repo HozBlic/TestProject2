@@ -1,0 +1,25 @@
+#TypeFurniture {
+	display: none;
+}
+
+#TypeBook {
+	display: none;
+}
+
+#TypeDVD {
+	display: none;
+}
+
+.flex-container {
+	padding-bottom: 10px;
+	border-bottom: 3px solid;
+	display: flex;
+}
+
+body {
+	padding: 50px;
+}
+
+.row2 {
+	padding-top: 20px;
+}

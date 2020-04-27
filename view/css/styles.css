@@ -1,0 +1,41 @@
+div.flex-container {
+	padding-bottom: 10px;
+	display: flex;
+}
+
+.line {
+	border-bottom: 3px solid;
+}
+
+div.form-check {
+	padding: 5px;
+}
+
+div.row1 {
+	padding-top: 10px;
+}
+
+input[type="checkbox"] {
+	float: left;
+}
+
+a {
+	padding: 5px;
+}
+
+body {
+	padding: 50px;
+}
+
+.row {
+	position: absolute;
+	padding-right: 50px;
+}
+
+.card {
+	margin: 10px;
+}
+
+.empty {
+	margin-left: 15px;
+}
